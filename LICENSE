@@ -1,0 +1,207 @@
+# Dart Refactoring Pro — Commercial License Agreement
+
+Copyright (c) 2026-present Gourame Limited, a company registered in England and Wales.
+
+This End User License Agreement ("Agreement") is a legal agreement between you ("Licensee") and Gourame Limited
+("Licensor") for the use of the Dart Refactoring Pro IntelliJ plugin ("Software"), purchased or obtained via the
+JetBrains Marketplace.
+
+By installing, copying, or otherwise using the Software, you agree to be bound by the terms of this Agreement. If you
+do not agree to these terms, do not install or use the Software.
+
+---
+
+## 1. Definitions
+
+**"Software"** means the Dart Refactoring Pro IntelliJ plugin, including all associated files, documentation, and
+updates provided by the Licensor.
+
+**"License"** means the right to use the Software granted to the Licensee under this Agreement.
+
+**"License Key"** means the unique key issued to the Licensee upon purchase, used to activate the Software.
+
+**"Subscription Period"** means the twelve (12) month period commencing on the date of purchase or renewal during which
+the License is valid.
+
+**"Fallback Version"** means the latest version of the Software that was available and accessible to the Licensee on
+the date their most recent Subscription Period expired.
+
+**"Licensee"** means the individual developer who has purchased the License.
+
+**"JetBrains Marketplace"** means the official plugin marketplace operated by JetBrains s.r.o. through which the
+Software is sold and distributed.
+
+---
+
+## 2. License Grant
+
+Subject to the terms of this Agreement and timely payment of applicable subscription fees, Gourame Limited grants the
+Licensee a non-exclusive, non-transferable, worldwide license to:
+
+2.1 Install and use the Software on any number of machines owned or controlled by the Licensee, for the sole purpose of
+ the Licensee's personal or professional software development work.
+
+2.2 Install and activate the Software on multiple computers (e.g. a desktop, a laptop, and a home workstation),
+provided that only one instance is in active use at any given time.
+
+2.3 Use updates, improvements, and bug fixes released during the active Subscription Period.
+
+---
+
+## 3. Annual Subscription
+
+3.1 The License is granted on an annual subscription basis. The Subscription Period begins on the date of purchase or
+renewal and expires twelve (12) months thereafter.
+
+3.2 Subscription fees are collected and processed by JetBrains s.r.o. as the authorised reseller via the JetBrains
+Marketplace. Payment terms, pricing, and renewal conditions are governed by the JetBrains Marketplace purchase terms.
+
+3.3 The Licensor will use commercially reasonable efforts to notify the Licensee of upcoming subscription expiry via
+the JetBrains Marketplace notification mechanisms.
+
+3.4 Failure to renew the subscription on or before the expiry date will result in the Software reverting to the
+Fallback Version rights described in Section 4.
+
+---
+
+## 4. Fallback Version Rights
+
+4.1 Upon expiry of a Subscription Period without renewal, the Licensee retains a perpetual, non-exclusive,
+non-transferable right to continue using the Fallback Version of the Software.
+
+4.2 Fallback Version rights do not include access to new versions, updates, bug fixes, or new features released after
+the Subscription Period expiry date.
+
+4.3 Fallback Version rights are contingent on the Licensee having completed at least one full, paid Subscription
+Period. Trial or complimentary activations do not qualify for Fallback Version rights.
+
+4.4 All other terms of this Agreement, including restrictions in Section 5, continue to apply to use of the Fallback
+Version.
+
+---
+
+## 5. Restrictions
+
+The Licensee shall not, and shall not permit any third party to:
+
+5.1 Copy, reproduce, or distribute the Software or any part thereof, except as expressly permitted by this Agreement.
+
+5.2 Sublicense, sell, resell, transfer, assign, or otherwise make the Software available to any third party.
+
+5.3 Reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code of the Software, except to
+the extent permitted by applicable law.
+
+5.4 Modify, adapt, translate, or create derivative works based on the Software.
+
+5.5 Remove, obscure, or alter any copyright, trademark, or proprietary rights notices contained in the Software or its
+documentation.
+
+5.6 Use the Software to develop a competing plugin, tool, or product that replicates or substantially reproduces the
+functionality of the Software.
+
+5.7 Share, publish, or disclose the License Key to any third party.
+
+5.8 Use the Software for any unlawful purpose or in violation of any applicable laws or regulations.
+
+---
+
+## 6. Intellectual Property
+
+6.1 The Software and all copies thereof are proprietary to Gourame Limited and title thereto remains with Gourame
+Limited. All rights in the Software not specifically granted in this Agreement are reserved to Gourame Limited.
+
+6.2 The Licensee acknowledges that no ownership rights are transferred under this Agreement and that the License
+constitutes a limited grant of use rights only.
+
+6.3 All feedback, suggestions, or ideas provided by the Licensee regarding the Software may be used by Gourame Limited
+without restriction or obligation.
+
+---
+
+## 7. Term and Termination
+
+7.1 This Agreement is effective from the date the Licensee first installs or uses the Software and continues until
+terminated.
+
+7.2 Gourame Limited may terminate this Agreement immediately upon written notice if the Licensee materially breaches
+any term of this Agreement and, where the breach is capable of remedy, fails to remedy that breach within fourteen
+(14) days of receiving notice to do so.
+
+7.3 The Licensee may terminate this Agreement at any time by uninstalling the Software and destroying all copies in
+their possession, subject to applicable JetBrains Marketplace refund policies.
+
+7.4 Upon termination for any reason other than expiry with Fallback Version rights under Section 4:
+- All License rights granted under this Agreement cease immediately.
+- The Licensee must cease all use of the Software and delete all copies.
+
+7.5 Sections 5, 6, 8, 9, 10, and 11 shall survive termination of this Agreement.
+
+---
+
+## 8. Warranty Disclaimer
+
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW,
+GOURAME LIMITED EXPRESSLY DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING BUT
+NOT LIMITED TO ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND
+NON-INFRINGEMENT. GOURAME LIMITED DOES NOT WARRANT THAT THE SOFTWARE WILL MEET THE LICENSEE'S REQUIREMENTS, OPERATE
+WITHOUT INTERRUPTION, OR BE ERROR-FREE.
+
+---
+
+## 9. Limitation of Liability
+
+9.1 TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL GOURAME LIMITED BE LIABLE FOR ANY INDIRECT,
+INCIDENTAL, SPECIAL, EXEMPLARY, CONSEQUENTIAL, OR PUNITIVE DAMAGES (INCLUDING, WITHOUT LIMITATION, LOSS OF PROFITS,
+LOSS OF DATA, BUSINESS INTERRUPTION, OR LOSS OF GOODWILL) ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT OR THE
+USE OF OR INABILITY TO USE THE SOFTWARE, EVEN IF GOURAME LIMITED HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+9.2 IN NO EVENT SHALL GOURAME LIMITED'S TOTAL CUMULATIVE LIABILITY ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT
+EXCEED THE TOTAL FEES PAID BY THE LICENSEE TO GOURAME LIMITED (VIA THE JETBRAINS MARKETPLACE) DURING THE TWELVE (12)
+MONTHS IMMEDIATELY PRECEDING THE CLAIM.
+
+9.3 Nothing in this Agreement shall limit or exclude liability for death or personal injury caused by negligence,
+fraud, or any other liability that cannot be excluded or limited by applicable law.
+
+---
+
+## 10. Third-Party Components
+
+The Software may include open-source or third-party components. Such components are governed by their own respective
+licenses. A list of third-party components and their applicable licenses is available in the Software documentation or
+plugin distribution package. This Agreement does not alter any rights granted to the Licensee by those third-party
+licenses.
+
+---
+
+## 11. General
+
+11.1 **Governing Law.** This Agreement shall be governed by and construed in accordance with the laws of England and
+Wales, without regard to its conflict of laws principles.
+
+11.2 **Dispute Resolution.** Any dispute arising out of or in connection with this Agreement shall be subject to the
+exclusive jurisdiction of the courts of England and Wales.
+
+11.3 **Entire Agreement.** This Agreement, together with any order confirmation issued via the JetBrains Marketplace,
+constitutes the entire agreement between the parties with respect to the Software and supersedes all prior or contemporaneous understandings, communications, or agreements, written or oral, regarding the subject matter herein.
+
+11.4 **Severability.** If any provision of this Agreement is held to be invalid, illegal, or unenforceable, the
+remaining provisions shall continue in full force and effect, and the invalid provision shall be modified to the minimum extent necessary to make it enforceable.
+
+11.5 **No Waiver.** Failure by Gourame Limited to enforce any right or provision of this Agreement shall not constitute
+a waiver of that right or provision.
+
+11.6 **Assignment.** The Licensee may not assign or transfer this Agreement or any rights hereunder, whether by
+operation of law or otherwise, without the prior written consent of Gourame Limited. Gourame Limited may assign this
+Agreement freely, including in connection with a merger, acquisition, or sale of assets. Any purported assignment in
+violation of this section is void.
+
+11.7 **Amendments.** Gourame Limited reserves the right to update or modify this Agreement at any time. Continued use
+of the Software after notice of such changes constitutes acceptance of the revised terms. For existing subscribers,
+material changes shall take effect at the start of the next Subscription Period.
+
+11.8 **Contact.** For licensing enquiries, please contact Gourame Limited via the plugin support page on the JetBrains
+Marketplace.
+
+---
+
+*Dart Refactoring Pro is developed and maintained by Gourame Limited, registered in England and Wales.*
